@@ -29,6 +29,7 @@ Qintong Zhang<sup>2,4</sup>, <br>
 
 ## 🔥 News
 * **`2025.10.13`** 🤗🤗 We have released our latest work [EPIC](https://zichenwen1.github.io/EPIC/), an efficient framework for progressive consistency distillation in multimodal large language models!
+* **`2025.10.10`** 🤗🤗 We've released our latest work, [VTC-Bench](https://arxiv.org/pdf/2510.07143). Come test whether your token compression method really works!
 * **`2025.08.30`** 🤗🤗 We have seamlessly integrated DART into [Qwen2.5-VL](https://github.com/ZichenWen1/DART/tree/main/Qwen2_5-VL).
 * **`2025.08.21`** 🤗🤗 Our DART is accepted at EMNLP'25 main!
 * **`2025.05.15`** 🤗🤗 Our analytical [work](https://aclanthology.org/2025.findings-acl.802.pdf) on token compression has been accepted as ACL'25 Finding!
